@@ -2,7 +2,9 @@
 
 # YingQiu · 盈秋
 
-### Yuning Gu · 谷昱宁
+### 谷昱宁 · Yuning Gu
+
+**字盈秋 · Courtesy name: Yingqiu · You can call me Yingqiu**
 
 **Pharmaceutical Sciences MSc · Open-source Developer · Research & Technology**  
 **药学硕士生 · 开源软件开发者 · 科研与技术探索者**
@@ -18,13 +20,13 @@
 
 ## Hello! · 你好！
 
-I'm **YingQiu (盈秋)**, also known as **Yuning Gu (谷昱宁)**. I am an MSc student in **Development of Drugs and Health Products (D2HP)** at the Faculty of Pharmacy, **Université Paris-Saclay**, France.
+My name is **Yuning Gu (谷昱宁)**. My **courtesy name (字)** is **Yingqiu (盈秋)**, and you're welcome to call me **Yingqiu**. I am an MSc student in **Development of Drugs and Health Products (D2HP)** at the Faculty of Pharmacy, **Université Paris-Saclay**, France.
 
 My academic interests span pharmaceutical formulation, drug-delivery technology, natural products, and translational health research. I also develop open-source applications and tools for everyday problems, from AI-assisted workflows and productivity to accessibility and practical utilities.
 
 I enjoy exploring the space between **experimental science, software engineering, and useful products**—turning ideas into research projects, reproducible workflows, or applications that people can actually use.
 
-我是**盈秋（谷昱宁）**，现于法国**巴黎萨克雷大学（Université Paris-Saclay）药学院**攻读 **Development of Drugs and Health Products（D2HP）药物与健康产品开发硕士**。
+我叫**谷昱宁**，**字盈秋**，也可以直接叫我**盈秋**。目前我在法国**巴黎萨克雷大学（Université Paris-Saclay）药学院**攻读 **Development of Drugs and Health Products（D2HP）药物与健康产品开发硕士**。
 
 我的学术兴趣涉及**药物制剂、药物递送技术、天然产物以及转化健康研究**。科研之外，我也喜欢开发开源软件：包括 AI 辅助开发工具、生产力应用、实时翻译工具，以及解决日常实际问题的小程序。
 
@@ -147,7 +149,7 @@ For research discussions, academic collaboration, project feedback, or open-sour
 
 <div align="center">
 
-*YingQiu / 盈秋 · Yuning Gu / 谷昱宁*  
+*谷昱宁 / Yuning Gu · 字盈秋 / Courtesy name: Yingqiu*  
 *Pharmaceutical sciences × Open-source software × Practical curiosity*
 
 [↑ Back to top / 返回顶部](#yingqiu--盈秋)
